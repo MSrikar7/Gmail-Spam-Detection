@@ -1,7 +1,7 @@
 
 # Spam Detection for Gmail
 
-An AI-based Mail Spam Detector for Gmail made using Naive Bayes Method and Intergated to Gmail using Google App Scripts (GAS) to classify the incoming mails as Spam or Ham Mail.
+An AI-based Mail Spam Detector for Gmail made using Naive Bayes Method and Intergated to Gmail using Google App Scripts (GAS) to classify the incoming mails as Spam or Ham mail.
 
 
 
