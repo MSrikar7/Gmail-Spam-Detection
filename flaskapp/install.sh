@@ -1,7 +1,7 @@
 #!/bin/bash
 
 pip install -r requirements.txt
-
+# install req
 # Path to your Flask application directory
 FLASK_APP_DIR=$(pwd)
 
