@@ -1,4 +1,4 @@
-// Google Apps Script Code
+// Google Apps Scripts
 
 function setupTimeTrigger() {
   // Delete existing triggers to avoid duplicates (optional)
