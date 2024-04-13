@@ -5,7 +5,7 @@ import json
 app = Flask(__name__)
 
 # Load the pre-trained model
-model = joblib.load("Naive_model.pkl")
+model = joblib.load("final.pkl")
 
 @app.route('/classify', methods=['POST'])
 def classify_email():
